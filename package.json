@@ -1,0 +1,22 @@
+{
+  "name": "new-folder-(2)",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "framer-motion": "^12.38.0",
+    "howler": "^2.2.4",
+    "vite": "^5.4.19",
+    "zustand": "^5.0.12"
+  }
+}
